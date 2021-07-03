@@ -8,6 +8,7 @@
   - C#
   - Python
   - SQL 
+  - Type/Javascript
   - Angular 
 
 - 💞️ I’m looking to collaborate on: 
