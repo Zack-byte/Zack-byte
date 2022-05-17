@@ -1,18 +1,14 @@
 # HELLO THERE!
 - The names Zachary 
 
-- 🌱 I’m currently learning: 
-  - Alot :)
-
 - I have Experience With: 
+- - C++
   - C#
   - Python
-  - SQL 
-  - Type/Javascript
-  - Angular 
-
-- 💞️ I’m looking to collaborate on: 
-  - Don't know yet we'll see :) 
+  - SQL (T-SQL) (Microsoft SQL Server)
+  - Javascript and Typescript
+  - Angular
+  - Docker 
 
 - 📫 How to reach me:
   - Email: zacharyharris27@gmail.com
