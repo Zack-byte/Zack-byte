@@ -4,6 +4,7 @@
 - I have Experience With: 
 - - C++
   - C#
+  - Rust
   - Python
   - SQL (T-SQL) (Microsoft SQL Server)
   - Javascript and Typescript
